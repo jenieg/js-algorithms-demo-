@@ -14,6 +14,4 @@ function reverseInteger(num) {
     return (reversedNumber * Math.sign(num))
 }
 
-
-
 module.exports = reverseInteger;
